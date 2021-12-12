@@ -16,22 +16,3 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/{dhruvsinghinator}/count.svg)
