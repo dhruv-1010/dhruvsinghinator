@@ -1,4 +1,4 @@
-<b><font style="color:red;">hello good to see you here</b></font>   
+<b><h1>hello good to see you here</h1></b>
 - 👋 Hi, I’m @dhruvsinghinator
 - 👀 I’m interested in learning mathematics
 - 🌱 I’m currently learning C
