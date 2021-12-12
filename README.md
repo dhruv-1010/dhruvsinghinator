@@ -1,3 +1,7 @@
+-![Visitor Count](https://profile-counter.glitch.me/{dhruvsinghinator}/count.svg)
+-
+-  
+-    
 - 👋 Hi, I’m @dhruvsinghinator
 - 👀 I’m interested in learning mathematics
 - 🌱 I’m currently learning C
